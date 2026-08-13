@@ -16,8 +16,7 @@ N'hésitez pas à explorer mes projets, laisser une étoile ⭐ sur ceux qui vou
 
 ## 🚀 Ce que je fais
 
-- 💻 Développement d'applications de bureau
-- 🐍 Développement en Python
+- 💻 Développement d'applications
 - 🤖 Intelligence artificielle
 - 📂 Outils de productivité
 - ⚙️ Automatisation
